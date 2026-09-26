@@ -1,0 +1,44 @@
+COMICCRAFT – PROJECT DESIGN
+
+1. System Architecture
+
+User
+↓
+ComicCraft Interface
+↓
+User Input
+↓
+AI Processing
+↓
+Comic Story Generation
+↓
+Scenes + Dialogues
+↓
+Comic Panels
+
+2. User Flow
+
+Step 1: User opens ComicCraft.
+Step 2: User enters a story idea.
+Step 3: User provides character details.
+Step 4: User selects the required story style or genre.
+Step 5: The system processes the input using AI assistance.
+Step 6: Comic-style scenes and dialogues are generated.
+Step 7: The generated content is arranged into comic panels.
+Step 8: User views the final comic output.
+
+3. Main Components
+   • User Interface
+   • Story Input
+   • Character Input
+   • AI Processing
+   • Scene and Dialogue Generation
+   • Comic Panel Output
+
+4. Data Flow
+
+User Input → Application → AI Processing → Generated Story → Comic Panels
+
+5. Design Goal
+
+The system is designed to provide a simple and beginner-friendly workflow for converting a story idea into structured comic content.

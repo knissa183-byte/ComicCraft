@@ -1,0 +1,45 @@
+COMICCRAFT – PROJECT PLANNING
+
+1. Project Goal
+   To develop a simple AI-assisted comic creation project that converts a story idea into structured comic scenes, dialogues and panels.
+
+2. Team Roles
+   • Team Leader – Overall coordination, planning, integration and final checking.
+   • UI Member – Interface design and user experience.
+   • AI Member – AI integration and prompt handling.
+   • Documentation Member – Requirements, design and project documentation.
+   • Testing Member – Testing features and recording results.
+
+3. Development Plan
+
+Phase 1: Brainstorming and Ideation
+• Finalize the project idea.
+• Identify the problem and proposed solution.
+
+Phase 2: Requirement Analysis
+• Identify functional and non-functional requirements.
+• Identify hardware and software requirements.
+
+Phase 3: Project Design
+• Design the system flow.
+• Plan the user interface and comic generation process.
+
+Phase 4: Project Development
+• Develop the ComicCraft project.
+• Create comic scenes, dialogues and panels.
+
+Phase 5: Testing
+• Test the project output.
+• Check comic panels and generated content.
+
+Phase 6: Documentation
+• Prepare project documentation.
+• Organize screenshots and project files.
+
+Phase 7: Demonstration and Submission
+• Prepare the final project.
+• Verify GitHub files.
+• Prepare demonstration and submission materials.
+
+4. Expected Deliverable
+   A working ComicCraft project with documentation, comic panels and an organized project repository.

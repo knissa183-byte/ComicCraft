@@ -1,0 +1,51 @@
+COMICCRAFT – PROJECT DOCUMENTATION
+
+1. Project Title
+   ComicCraft – AI Assisted Comic Creation
+
+2. Project Description
+   ComicCraft is an AI-assisted comic creation project designed to help users transform a simple story idea into structured comic scenes, dialogues and visual comic panels.
+
+3. Objective
+   The main objective is to provide a simple and beginner-friendly approach to comic creation using AI assistance.
+
+4. Key Features
+   • Story idea based comic creation
+   • Character and story details
+   • AI-assisted content generation
+   • Scene and dialogue creation
+   • Comic panel output
+   • Simple project workflow
+
+5. Hardware Requirements
+   • Computer or laptop
+   • Minimum 4 GB RAM
+   • Keyboard and mouse
+   • Internet connection
+
+6. Software Requirements
+   • Windows operating system
+   • Web browser
+   • Generative AI support
+   • Text editor
+   • Git and GitHub
+
+7. Project Output
+   The project contains five completed comic panels along with the required project documentation.
+
+8. Repository
+   The project files are maintained in the team's GitHub repository.
+
+9. Testing
+   The project files, documentation, comic panels and GitHub repository were checked successfully.
+
+10. Future Enhancements
+    • More comic styles
+    • More panel layouts
+    • Character image generation
+    • Downloadable comic output
+    • Regeneration options
+    • Additional storytelling features
+
+11. Conclusion
+    ComicCraft demonstrates how AI assistance can be used to support comic creation by organizing story ideas into scenes, dialogues and comic panels.

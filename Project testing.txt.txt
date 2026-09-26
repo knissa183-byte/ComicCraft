@@ -1,0 +1,32 @@
+COMICCRAFT – PROJECT TESTING
+
+1. Testing Objective
+   The objective of testing is to verify that the ComicCraft project files, comic panels and generated output are available and working as expected.
+
+2. Test Cases
+
+Test Case 1: Project Files
+Expected Result: All required project files should be available.
+Result: PASS
+
+Test Case 2: Documentation
+Expected Result: Project documentation should open correctly and contain the required information.
+Result: PASS
+
+Test Case 3: Comic Panels
+Expected Result: All five comic panels should be available and open correctly.
+Result: PASS
+
+Test Case 4: Final Comic Output
+Expected Result: The final comic output should be viewable without errors.
+Result: PASS
+
+Test Case 5: GitHub Repository
+Expected Result: Project files should be uploaded and accessible in the GitHub repository.
+Result: PASS
+
+3. Testing Summary
+   The project files and five comic panels were checked successfully. The documentation and GitHub repository were also verified.
+
+4. Final Testing Result
+   The ComicCraft project passed the planned basic testing checks.

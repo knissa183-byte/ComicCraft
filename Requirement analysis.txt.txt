@@ -1,0 +1,36 @@
+COMICCRAFT – REQUIREMENT ANALYSIS
+
+1. Functional Requirements
+   • User should be able to enter a story idea.
+   • User should be able to provide character details.
+   • User should be able to select a genre.
+   • User should be able to generate comic-style scenes and dialogues.
+   • Generated content should be displayed clearly.
+   • User should be able to view the final comic panels.
+
+2. Non-Functional Requirements
+   • The application should be simple and user-friendly.
+   • The system should provide understandable output.
+   • The application should respond properly to user input.
+   • The project should be easy to maintain and improve.
+
+3. Hardware Requirements
+   • Computer/Laptop
+   • Minimum 4 GB RAM
+   • Keyboard and mouse
+   • Internet connection
+
+4. Software Requirements
+   • Operating System: Windows
+   • Web browser
+   • Google Gemini / Generative AI support
+   • Text editor
+   • Git and GitHub for project storage
+
+5. User Requirements
+   • Basic computer knowledge
+   • Ability to enter a story idea and character details
+   • Internet access for AI-assisted features
+
+6. Expected System Output
+   The system should produce structured comic content containing scenes, dialogues and comic panels based on the provided story idea.

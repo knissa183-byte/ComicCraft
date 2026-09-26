@@ -1,0 +1,30 @@
+COMICCRAFT – BRAINSTORMING AND IDEATION
+
+1. Project Idea
+   ComicCraft is an AI-assisted comic creation project that helps users transform a simple story idea into a comic-style story with scenes and dialogues.
+
+2. Problem Statement
+   Creating a comic manually can take a lot of time and requires writing and creative planning skills. Users may find it difficult to develop a complete comic story from a simple idea.
+
+3. Proposed Solution
+   ComicCraft provides a simple way to organize a story idea into comic-style scenes and dialogues using AI assistance.
+
+4. Target Users
+   • Students
+   • Beginners interested in comic creation
+   • Story writers
+   • Creative content creators
+
+5. Key Idea
+   User Story Idea → AI Assistance → Scenes + Dialogues → Comic Panels
+
+6. Main Features
+   • Story idea input
+   • Character details
+   • Genre selection
+   • Scene-based comic creation
+   • Dialogue generation
+   • Comic panel output
+
+7. Expected Outcome
+   The project aims to provide an easy and beginner-friendly approach for creating structured comic content from a simple story idea.

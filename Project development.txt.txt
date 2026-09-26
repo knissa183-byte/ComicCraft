@@ -1,0 +1,36 @@
+COMICCRAFT – PROJECT DEVELOPMENT
+
+1. Development Overview
+   ComicCraft was developed as an AI-assisted comic creation project. The project focuses on converting a simple story idea into structured comic content.
+
+2. Development Process
+   • Created the ComicCraft project structure.
+   • Prepared the project documentation.
+   • Designed the comic story flow.
+   • Created comic scenes and dialogues.
+   • Designed and generated five comic panels.
+   • Organized the final comic output.
+   • Stored the project files in GitHub.
+
+3. Comic Creation Process
+
+Story Idea
+↓
+Character / Story Details
+↓
+AI-Assisted Story Content
+↓
+Scenes and Dialogues
+↓
+Comic Panel Design
+↓
+Final Comic Output
+
+4. Developed Output
+   The project contains five completed comic panels as the final visual output.
+
+5. Project Storage
+   The project files are organized locally and uploaded to the team's GitHub repository for storage and project submission.
+
+6. Development Result
+   The development phase produced a structured ComicCraft project containing documentation and a five-panel comic output.
